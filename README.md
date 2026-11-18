@@ -7,7 +7,6 @@ GitHub :octocat:|Contact your Local Campus Expert :triangular_flag_on_post:[use 
 [GitKraken](https://www.gitkraken.com/contact)|Not for India  
 DigitalOcean|Mail them the Details to sponsorship@digitalocean.com
 [.Tech](https://get.tech/hackathons) | ---
- [Balsamiq](https://balsamiq.com/givingback/sponsorships/apply/)|---
  [Python Software Foundation](https://www.python.org/psf/grants/)|---
  [Npm Js](https://www.surveymonkey.com/r/npmsponsorshiprequests)|---
  [Elastic](https://www.elastic.co/community/meetups/already-hosting-meetup-in-a-box)|---
